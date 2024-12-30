@@ -1,0 +1,2 @@
+package org.beta.loginregistration.dto;public class LoginRequest {
+}
